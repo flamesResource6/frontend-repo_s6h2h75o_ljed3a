@@ -7,6 +7,7 @@ export default function Navbar() {
   const navItems = [
     { href: "#leistungen", label: "Leistungen" },
     { href: "#projekte", label: "Projekte" },
+    { href: "#galerie", label: "Galerie" },
     { href: "#prozess", label: "Prozess" },
     { href: "#ueber-uns", label: "Über uns" },
     { href: "#kontakt", label: "Kontakt" },
